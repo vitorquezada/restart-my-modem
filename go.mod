@@ -1,4 +1,4 @@
-module github.com/vitorquezada/reiniciador-modem/restart-my-modem
+module github.com/vitorquezada/restart-my-modem
 
 go 1.14
 
