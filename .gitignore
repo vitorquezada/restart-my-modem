@@ -1,0 +1,4 @@
+.env
+go.sum
+*.exe
+Reiniciar Modem.bat
